@@ -10,6 +10,7 @@ namespace SampleUnitTest
         public void TestMethod1()
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("New Line");
         }
 
     }
