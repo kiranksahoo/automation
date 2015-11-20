@@ -11,6 +11,7 @@ namespace SampleUnitTest
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("New Line");
+            Console.WriteLine("New Line Two");
         }
 
     }
